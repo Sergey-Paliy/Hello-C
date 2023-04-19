@@ -1,0 +1,15 @@
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/bin/Debug/net7.0/Exemple001_HelloConsole
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/bin/Debug/net7.0/Exemple001_HelloConsole.deps.json
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/bin/Debug/net7.0/Exemple001_HelloConsole.runtimeconfig.json
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/bin/Debug/net7.0/Exemple001_HelloConsole.dll
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/bin/Debug/net7.0/Exemple001_HelloConsole.pdb
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.csproj.AssemblyReference.cache
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.AssemblyInfoInputs.cache
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.AssemblyInfo.cs
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.dll
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/refint/Exemple001_HelloConsole.dll
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.pdb
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/Exemple001_HelloConsole.genruntimeconfig.cache
+/home/sergey/Учеба GB/Введение в языки программирования/Exemple001_HelloConsole/obj/Debug/net7.0/ref/Exemple001_HelloConsole.dll
